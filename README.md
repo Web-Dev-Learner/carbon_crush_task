@@ -3,7 +3,7 @@
 CarbonCrunch is a **Sustainability Reporting Web Application** that helps businesses and individuals track their **carbon footprint** and generate sustainability reports.
 
 ## 🚀 Live Preview  
-🔗 **Check it out here**: [CarbonCrunch Live Demo](your-live-preview-link)
+🔗 **Check it out here**: [CarbonCrunch Live Demo](https://web-dev-learner.github.io/carbon_crush_task/)
 
 ## 🚀 Features
 <ul>
