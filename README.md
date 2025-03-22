@@ -11,6 +11,7 @@ CarbonCrunch is a **Sustainability Reporting Web Application** that helps busine
   <li>📌 <b>Responsive Navbar</b>: Mobile-friendly navigation with a collapsible menu.</li>
   <li>📊 <b>Statistics Section</b>: Displays sustainability metrics and reports (Upcoming Feature).</li>
   <li>⚡ <b>Optimized Performance</b>: Built using Vite for fast rendering.</li>
+  <li>🎬 <b>Smooth Animations</b>: Integrated with <b>Framer Motion</b> for dynamic UI interactions.</li> 
 </ul>
 
 ## 🛠️ Tools & Technologies Used
@@ -39,6 +40,7 @@ CarbonCrunch is a **Sustainability Reporting Web Application** that helps busine
     <td>💡 JavaScript (ES6+)</td>
     <td>Core logic handling (state management for navbar, interactivity).</td>
   </tr>
+  <tr> <td>🎬 Framer Motion</td> <td>Provides smooth animations and transitions.</td> </tr>
 </table>
 
 ## 🔹 Why These Technologies?
@@ -46,6 +48,7 @@ CarbonCrunch is a **Sustainability Reporting Web Application** that helps busine
   <li>🚀 <b>React + Vite</b> → Faster development, better optimization.</li>
   <li>🎨 <b>Tailwind CSS</b> → Cleaner, more maintainable styling.</li>
   <li>🔷 <b>Lucide-react</b> → Modern, customizable icons for UI.</li>
+  <li>🎬 <b>Framer Motion</b> → Seamless animations and better user engagement.</li>
 </ul>
 
 ## 📌 Key Features Breakdown
@@ -74,11 +77,10 @@ CarbonCrunch is a **Sustainability Reporting Web Application** that helps busine
   </ul>
 </ul>
 
-### 3️⃣ 📊 Statistics Section
-<ul>
-  <li>📈 <b>Data Visualization</b> (Not yet implemented in your code).</li>
-  <li>📑 Likely displays sustainability metrics and carbon footprint reports.</li>
-</ul>
+3️⃣ 📊 Statistics Section
+<ul> <li>📈 <b>Dynamic Data Display</b>: Showcases sustainability metrics.</li> <li>⏳ <b>Lazy-Loaded Backgrounds</b>: Improves page speed by applying images  .</li> <li>🎬 <b>Framer Motion Animations</b>: Smooth fade-in & slide-up effects for cards.</li> <li>🎨 <b>Tailwind CSS Utility Classes</b>: Used for styling .</li> <li>🔡 <b>Typography</b>: <ul> <li>🅰️ <b>Aeonik TRIAL</b>: Bold, used for numbers.</li> <li>📝 <b>DM Sans</b>: Readable, used for descriptions.</li> </ul> </li> <li>⚡ <b>Hover Effects</b>: <code>hover</code> for interactive zoom on cards.</li> </ul>
+
+
 
 
 
